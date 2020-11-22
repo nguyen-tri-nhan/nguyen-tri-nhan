@@ -34,6 +34,7 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nguyentrinhan-dev&show_icons=true&theme=radical"/>
   <p>
+    <img src="https://img.shields.io/badge/-Visual%20Studio-854db9?style=flat-square&logo=Visual%20Studio&logoColor=White"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -44,7 +45,7 @@
     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   </p>
 </p></br>
