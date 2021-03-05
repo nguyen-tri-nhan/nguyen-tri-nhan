@@ -1,4 +1,4 @@
-## Hi there, I'm Nguyen Tri Nhan
+## Hi there, I'm [Nguyen Tri Nhan](https://github.com/nguyentrinhan-dev)
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
@@ -35,20 +35,18 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nguyentrinhan-dev&show_icons=true&theme=radical"/>
   <p>
+    <img src="https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat-square&logo=IntelliJ%20Idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio-854db9?style=flat-square&logo=Visual%20Studio&logoColor=White"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-PostgreSql-336791?style=flat-square&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Docker-23A9F2?style=flat-square&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/-PostgreSql-0064a5?style=flat-square&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/-ReactJs-61DBFB?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/-ReactJs-23A9F2?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   </p>
 </p></br>
-
-Credits: [Nguyen Tri Nhan](https://github.com/nguyentrinhan-dev)
