@@ -6,9 +6,7 @@
 
 
 - I'm **Software Engineer** | **Student**
-- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
-- Willing to contribute more and more in **Open Source Projects**
-
+- Excitedly discover **knowledge**
 
 ### Feel Free to Contact me.....
 
