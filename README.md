@@ -27,7 +27,7 @@
 </p>
 
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{nguyentrinhan-dev}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{nguyen-tri-nhan}/count.svg)
 
 
 <p>
