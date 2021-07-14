@@ -1,4 +1,4 @@
-## Hi there, I'm [Nguyen Tri Nhan](https://github.com/nguyentrinhan-dev)
+## Hi there, I'm [Nguyen Tri Nhan](https://github.com/nguyen-tri-nhan)
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
@@ -11,7 +11,7 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/nguyentrinhan-dev"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://github.com/nguyen-tri-nhan"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/nguyentrinhan-dev/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/nguyentrinhan.dev/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/ig.nhan.nguyen/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
@@ -31,7 +31,7 @@
 
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nguyentrinhan-dev&show_icons=true&theme=radical"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nguyen-tri-nhan&show_icons=true&theme=radical"/>
   <p>
     <img src="https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat-square&logo=IntelliJ%20Idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio-854db9?style=flat-square&logo=Visual%20Studio&logoColor=White"/>
